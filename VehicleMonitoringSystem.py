@@ -5,7 +5,7 @@ import easyocr #imp --- img to text
 import cv2  #imp  --- video capture
 import qrcode #imp
 # import numpy 
-# from matplotlib import pyplot as plt
+#   from matplotlib import pyplot as plt
 
 from ultralytics import YOLO  #imp
 
